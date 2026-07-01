@@ -1,0 +1,6 @@
+{
+  "name": "Secure Wallet API",
+  "description": "Secure Node.js backend and API for managing user balances and recording transactions for online gaming and gambling platforms.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
